@@ -1,0 +1,4 @@
+function Pub(a){this.b=a}
+function PVb(a){dj(this,a)}
+function OVb(){PVb.call(this,Fs($doc,'file'));vj(this.db,'gwt-FileUpload')}
+o3(787,1,Vqc,Pub);_.Lc=function Qub(a){var b;b=this.b.db.value;b.length==0?vMb('You must select a file to upload'):vMb('File uploaded!')};o3(788,1,Yqc);_.qc=function Uub(){var a,b,c;U5(this.b,(a=new A7b,x7b(a,new PTb('<b>Select a file:<\/b>')),b=new OVb,b7b(b.db,Fsc,'cwFileUpload'),x7b(a,b),c=new uPb('Upload File'),Dj(c,new Pub(b),(Ry(),Ry(),Qy)),x7b(a,new PTb('<br>')),x7b(a,c),a))};o3(1031,104,lqc,OVb);_.Vb=function QVb(a){Ij(this,a)};var KU=gfc(Qxc,'CwFileUpload$1',787),oY=gfc(Pxc,'FileUpload',1031);Lrc(Vn)(20);

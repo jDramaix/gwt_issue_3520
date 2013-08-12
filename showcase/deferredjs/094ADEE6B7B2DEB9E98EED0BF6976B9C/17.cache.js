@@ -1,0 +1,7 @@
+function osb(a){this.b=a}
+function rsb(a){this.b=a}
+function EWb(a,b){wLb();(a.b._f(0,1),xWb(a.b.j,0,1))[yzc]=b}
+function ksb(a){var b;b=a.j.rows.length;if(b>1){_Vb(a,b-1);EWb(eJ(a.k,97),b-1)}}
+function isb(a){var b;b=a.j.rows.length;hWb(a,b,0,new FKb((S7(),H7)));hWb(a,b,1,new FKb(H7));EWb(eJ(a.k,97),b+1)}
+function jsb(){var a,b,c,d,e;d=new nWb;c=eJ(d.k,97);vj(d.db,'cw-FlexTable',true);GLb(d.db,Rsc,'32em');wLb();ds(d.p,Lwc,5);ds(d.p,Mwc,3);zWb(c,1,(tXb(),pXb));eWb(d,0,0,'\u8FD9\u662F\u4E00\u4E2A\u53EF\u652F\u6301 <B>colspans<\/B> \u548C <B>rowspans<\/B> \u7684 FlexTable\u3002  \u60A8\u53EF\u4EE5\u7528\u5B83\u6765\u5E03\u5C40\u9875\u9762\u6216\u4F5C\u4E3A\u5176\u5B83\u7279\u6B8A\u7528\u9014\u7684\u8868\u3002');ds(wWb(c,0),Byc,2);a=new pPb('\u6DFB\u52A0\u884C',new osb(d));vj(a.db,Azc,true);e=new pPb('\u5220\u9664\u884C',new rsb(d));vj(e.db,Azc,true);b=new r7b;uj(b.db,'cw-FlexTable-buttonPanel');o7b(b,a);o7b(b,e);hWb(d,0,1,b);BWb(c,0,1,(AXb(),zXb));isb(d);isb(d);ZVb(d,'cwFlexTable');return d}
+g3(744,1,Hqc,osb);_.Hc=function psb(a){isb(this.b)};g3(745,1,Hqc,rsb);_.Hc=function ssb(a){ksb(this.b)};g3(746,1,Kqc);_.qc=function wsb(){M5(this.b,jsb())};var hU=Vec(Exc,'CwFlexTable$1',744),iU=Vec(Exc,'CwFlexTable$2',745);xrc(Vn)(17);

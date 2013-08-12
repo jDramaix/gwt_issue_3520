@@ -1,0 +1,15 @@
+function DH(){}
+function G1b(a,b){NC(a.a,b)}
+function Jtb(a,b){this.b=a;this.a=b}
+function Mtb(a,b){this.b=a;this.a=b}
+function aI(a){return t4(NH,a)}
+function CH(){CH=bsc;BH=new DH}
+function Btb(a,b){mVb(b,B1c+a.og()+Cyc+a.pg())}
+function T1b(){O1b();S1b.call(this,$r($doc,C1c),D1c)}
+function Wac(b){try{var c=b.document.selection.createRange();if(c.parentElement()!==b)return 0;return c.text.length}catch(a){return 0}}
+function Vac(b){try{var c=b.document.selection.createRange();if(c.parentElement()!==b)return -1;return -c.move(E1c,-65535)}catch(a){return 0}}
+function ztb(a,b){var c,d;c=new VZb;iNb();Sr(c.e,cJc,4);SZb(c,a);if(b){d=new qVb(r1c);rj(a,new Jtb(a,d),(gz(),gz(),fz));rj(a,new Mtb(a,d),(Dy(),Dy(),Cy));SZb(c,d)}return c}
+function Yac(b){try{var c=b.document.selection.createRange();if(c.parentElement()!==b)return 0;var d=c.text.length;var e=0;var f=c.duplicate();f.moveEnd(E1c,-1);var g=f.text.length;while(g==d&&f.parentElement()==b&&c.compareEndPoints(G1c,f)<=0){e+=2;f.moveEnd(E1c,-1);g=f.text.length}return d+e}catch(a){return 0}}
+function Xac(b){try{var c=b.document.selection.createRange();if(c.parentElement()!==b)return -1;var d=c.duplicate();d.moveToElementText(b);d.setEndPoint(F1c,c);var e=d.text.length;var f=0;var g=d.duplicate();g.moveEnd(E1c,-1);var i=g.text.length;while(i==e&&g.parentElement()==b){f+=2;g.moveEnd(E1c,-1);i=g.text.length}return e+f}catch(a){return 0}}
+function Atb(){var a,b,c,d,e,f;f=new u9b;iNb();Sr(f.e,cJc,5);d=new R1b;X8b(d.cb,Euc,s1c);G1b(d,(CH(),CH(),BH));b=new R1b;X8b(b.cb,Euc,t1c);H1b(b,u1c);Rr(b.cb,nWc,true);r9b(f,new vVb(v1c));r9b(f,ztb(d,true));r9b(f,ztb(b,false));c=new T1b;X8b(c.cb,Euc,w1c);a=new T1b;X8b(a.cb,Euc,x1c);H1b(a,u1c);Rr(a.cb,nWc,true);r9b(f,new vVb(y1c));r9b(f,ztb(c,true));r9b(f,ztb(a,false));e=new g7b;X8b(e.cb,Euc,z1c);e.cb.rows=5;r9b(f,new vVb(A1c));r9b(f,ztb(e,true));return f}
+var v1c='<b>Normal text box:<\/b>',y1c='<br><br><b>Password text box:<\/b>',A1c='<br><br><b>Text area:<\/b>',K1c='AnyRtlDirectionEstimator',H1c='CwBasicText$2',I1c='CwBasicText$3',F1c='EndToStart',J1c='PasswordTextBox',B1c='Selected: ',r1c='Selected: 0, 0',G1c='StartToEnd',E1c='character',w1c='cwBasicText-password',x1c='cwBasicText-password-disabled',z1c='cwBasicText-textarea',s1c='cwBasicText-textbox',t1c='cwBasicText-textbox-disabled',D1c='gwt-PasswordTextBox',C1c='password',u1c='read only';b3(364,365,{},DH);_.Dd=function EH(a){return aI((WH(),a))?(bF(),aF):(bF(),_E)};var BH;b3(753,1,Xsc);_.mc=function Htb(){k6(this.a,Atb())};b3(754,1,Esc,Jtb);_.Gc=function Ktb(a){Btb(this.b,this.a)};b3(755,1,Usc,Mtb);_.Ec=function Ntb(a){Btb(this.b,this.a)};b3(1099,981,jsc);_.og=function J1b(){return Vac(this.cb)};_.pg=function K1b(){return Wac(this.cb)};b3(1096,1097,jsc,T1b);b3(1154,1098,jsc);_.og=function h7b(){return Xac(this.cb)};_.pg=function i7b(){return Yac(this.cb)};var eU=ghc(aNc,H1c,754),fU=ghc(aNc,I1c,755),cZ=ghc(cMc,J1c,1096),xO=ghc(vSc,K1c,364);Jtc(Jn)(18);

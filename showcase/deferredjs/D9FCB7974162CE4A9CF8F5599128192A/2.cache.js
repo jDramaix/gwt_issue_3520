@@ -1,0 +1,2 @@
+function xtb(){}
+E2(776,1,Ppc,xtb);_.Dc=function ytb(a){KLb('\u4E0D\u8981\u518D\u70B9\u4E86\uFF01')};E2(777,1,Spc);_.mc=function Ctb(){var a,b,c;i5(this.b,(a=new yXb,RKb(),Rr(a.f,Ovc,10),b=new FOb('\u5E38\u89C4\u6309\u94AE',new xtb),m6b(b.db,yrc,'cwBasicButton-normal'),vXb(a,b),c=new EOb('\u7981\u7528\u6309\u94AE'),m6b(c.db,yrc,'cwBasicButton-disabled'),RKb(),Qr(c.db,vxc,true),vXb(a,c),a))};var VT=cec(Cwc,'CwBasicButton$1',776);Fqc(Jn)(2);

@@ -1,0 +1,2 @@
+var led='cwGrid';function vGb(){var a,b,c,d,e;b=new J9b(4,4);d=b.g;c=b.f;for(e=0;e<d;++e){for(a=0;a<c;++a){a9b(b,e,a,new sZb((jkb(),Blb(),ulb(),olb)))}}S8b(b,led);return b}
+fgb(776,1,_Fc);_.mc=function BGb(){ojb(this.a,vGb())};NGc(Jn)(16);

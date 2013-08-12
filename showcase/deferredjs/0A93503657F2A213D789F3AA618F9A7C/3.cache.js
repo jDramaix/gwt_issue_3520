@@ -1,0 +1,4 @@
+function tc(a){jc((og(),mg),a)}
+function Zuc(a,b){var c;if((Cqc(),!a.db[aed])!=b){c=(!a.c&&Uuc(a,a.k),a.c.b)^4;c&=-3;Tuc(a,c);cs(a.db,aed,!b);if(b){Suc(a,(!a.c&&Uuc(a,a.k),a.c))}else{Puc(a);Lf();tc(a.db)}}}
+function q9b(){var a,b,c,d,e,f,g;g=new xOc;e=new kDc;Cqc();ds(e.f,qcd,10);f=new kDc;ds(f.f,qcd,10);uOc(g,new Pyc('<b>Push Buttons:<\/b>'));uOc(g,e);uOc(g,new Pyc('<br><br><b>Toggle Buttons:<\/b>'));uOc(g,f);c=new nIc(new Lpc((XOb(),MOb)));$Nc(c.db,w7c,'cwCustomButton-push-normal');hDc(e,c);a=new nIc(new Lpc(MOb));$Nc(a.db,w7c,'cwCustomButton-push-disabled');Zuc(a,false);hDc(e,a);d=new rMc(new Lpc(MOb));$Nc(d.db,w7c,'cwCustomButton-toggle-normal');hDc(f,d);b=new rMc(new Lpc(MOb));$Nc(b.db,w7c,'cwCustomButton-toggle-disabled');Zuc(b,false);hDc(f,b);return g}
+lKb(865,1,Q5c);_.qc=function w9b(){RMb(this.b,q9b())};D6c(Vn)(3);

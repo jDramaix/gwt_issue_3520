@@ -1,0 +1,4 @@
+function AHb(a){this.b=a}
+function D6b(a){cj(this,a)}
+function C6b(){D6b.call(this,ls($doc,'file'));uj(this.db,'gwt-FileUpload')}
+_fb(808,1,BDc,AHb);_.Hc=function BHb(a){var b;b=this.b.db.value;b.length==0?jZb('Vous devez s\xE9lectionner un fichier \xE0 envoyer'):jZb('Fichier t\xE9l\xE9charg\xE9!')};_fb(809,1,EDc);_.qc=function FHb(){var a,b,c;Fib(this.b,(a=new lkc,ikc(a,new D4b('<b>Choisissez un fichier:<\/b>')),b=new C6b,Ojc(b.db,kFc,'cwFileUpload'),ikc(a,b),c=new i0b('Envoyer un fichier'),Cj(c,new AHb(b),(Ey(),Ey(),Dy)),ikc(a,new D4b('<br>')),ikc(a,c),a))};_fb(1052,104,TCc,C6b);_.Vb=function E6b(a){Hj(this,a)};var x5=Prc(zKc,'CwFileUpload$1',808),b9=Prc(yKc,'FileUpload',1052);rEc(Vn)(20);

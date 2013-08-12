@@ -1,0 +1,18 @@
+function Lcc(){Mcc.call(this,false)}
+function kdc(a,b){mdc.call(this,a,false);this.b=b}
+function ldc(a,b){mdc.call(this,a,false);jdc(this,b)}
+function ndc(a){mdc.call(this,ccd,true);jdc(this,a)}
+function UAb(a){this.c=a;this.b=Mkb(this.c.a)}
+function pcc(a,b){return wcc(a,b,a.a.b)}
+function Pb(a,b){_b((le(),ge),a,vV(Veb,kFc,135,[(Rtc(),b?Qtc:Ptc)]))}
+function jdc(a,b){a.d=b;!!a.c&&Kcc(a.c,a);if(b){Vr(b.cb,-1);Bf();Pb(a.cb,true)}else{Bf();Pb(a.cb,false)}}
+function wcc(a,b,c){if(c<0||c>a.a.b){throw new Itc}a.o&&(m$b(),Sr(b.cb,C9c,2));occ(a,c,b.cb);kAc(a.a,c,b);return b}
+function qdc(){var a;Ui(this,(m$b(),qs($doc,fWc)));jj(this.cb,dcd);a=qs($doc,_Ic);n$b(this.cb,a);Tr(a,QIc,ecd)}
+function Jkb(a){var b,c;b=FV(a.a.ke(Gbd),149);if(b==null){c=vV($eb,lFc,1,[Hbd,Ibd,Jbd]);a.a.me(Gbd,c);return c}else{return b}}
+function Lkb(a){var b,c;b=FV(a.a.ke(Obd),149);if(b==null){c=vV($eb,lFc,1,[Pbd,Qbd,Rbd]);a.a.me(Obd,c);return c}else{return b}}
+function Kkb(a){var b,c;b=FV(a.a.ke(Kbd),149);if(b==null){c=vV($eb,lFc,1,[Lbd,Mbd,pQc,Nbd]);a.a.me(Kbd,c);return c}else{return b}}
+function Hkb(a){var b,c;b=FV(a.a.ke(ubd),149);if(b==null){c=vV($eb,lFc,1,[vbd,wbd,xbd,ybd,zbd]);a.a.me(ubd,c);return c}else{return b}}
+function Ikb(a){var b,c;b=FV(a.a.ke(Abd),149);if(b==null){c=vV($eb,lFc,1,[Bbd,Cbd,Dbd,Ebd,Fbd]);a.a.me(Abd,c);return c}else{return b}}
+function Mkb(a){var b,c;b=FV(a.a.ke(Sbd),149);if(b==null){c=vV($eb,lFc,1,[Tbd,Ubd,Vbd,Wbd,Xbd,Ybd]);a.a.me(Sbd,c);return c}else{return b}}
+function QAb(a){var b,c,d,e,f,g,i,j,k,n,o,p,q;o=new UAb(a);n=new Lcc;n.b=true;x$b(n.cb,PIc,Zbd);n.e=true;q=new Mcc(true);p=Jkb(a.a);for(k=0;k<p.length;++k){ncc(q,new kdc(p[k],o))}d=new Mcc(true);d.e=true;ncc(n,new ldc($bd,d));e=Ikb(a.a);for(k=0;k<e.length;++k){if(k==3){pcc(d,new qdc);ncc(d,new ldc(e[3],q));pcc(d,new qdc)}else{ncc(d,new kdc(e[k],o))}}b=new Mcc(true);ncc(n,new ldc(_bd,b));c=Hkb(a.a);for(k=0;k<c.length;++k){ncc(b,new kdc(c[k],o))}f=new Mcc(true);ncc(n,new ndc(f));g=Kkb(a.a);for(k=0;k<g.length;++k){ncc(f,new kdc(g[k],o))}i=new Mcc(true);pcc(n,new qdc);ncc(n,new ldc(acd,i));j=Lkb(a.a);for(k=0;k<j.length;++k){ncc(i,new kdc(j[k],o))}_lc(n.cb,IHc,bcd);Jcc(n,bcd);return n}
+var Zbd='500px',acd='Aide',Qbd='Biscuit de fortune',zbd='Coller',Ibd='Comment apprivoiser un perroquet sauvage',Pbd='Contenu',ybd='Copier',xbd='Couper',fcd='CwMenuBar$1',Wbd="Essayez quelque chose d'autre",Mbd='Exemples',$bd='Fichier',ccd='GWT',Nbd='GWiTtez avec le programme',Jbd="L'\xE9levage des \xE9meus pour les nuls",gcd='MenuItemSeparator',Tbd="Merci d'avoir s\xE9lectionn\xE9 une option de menu",Vbd="N'avez-vous rien de mieux \xE0 faire que de s\xE9lectionner des options de menu?",Bbd='Nouveau',Cbd='Ouvrir',Hbd='P\xEAcher dans le d\xE9sert.txt',Fbd='Quitter',Ebd='R\xE9cent',wbd='R\xE9tablir',Lbd='T\xE9l\xE9charger',Ybd='Un autre clic gaspill\xE9',Ubd='Une s\xE9lection vraiment pertinente',Xbd="ceci n'est qu'un menu!",bcd='cwMenuBar',ubd='cwMenuBarEditOptions',Abd='cwMenuBarFileOptions',Gbd='cwMenuBarFileRecents',Kbd='cwMenuBarGWTOptions',Obd='cwMenuBarHelpOptions',Sbd='cwMenuBarPrompts',dcd='gwt-MenuItemSeparator',ecd='menuSeparatorInner',Rbd='\xC0 propos de GWT',_bd='\xC9dition';fgb(691,1,{},UAb);_.oc=function VAb(){d_b(this.b[this.a]);this.a=(this.a+1)%this.b.length};_.a=0;fgb(692,1,_Fc);_.mc=function ZAb(){ojb(this.b,QAb(this.a))};fgb(1090,102,nFc,Lcc);fgb(1097,103,{100:1,105:1,119:1},kdc,ldc,ndc);fgb(1098,103,{100:1,106:1,119:1},qdc);var $3=kuc(BZc,fcd,691),S9=kuc(hZc,gcd,1098);NGc(Jn)(7);

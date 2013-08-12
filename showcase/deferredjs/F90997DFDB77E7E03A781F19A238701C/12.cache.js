@@ -1,0 +1,2 @@
+var yud='cwHorizontalPanel';function NVb(){var a,b;a=new Qrc;dfc();Sr(a.e,$ad,5);for(b=1;b<5;++b){Nrc(a,new Xic(xud+b))}Orc(a,yud);return a}
+Ywb(800,1,SWc);_.mc=function TVb(){fAb(this.a,NVb())};EXc(Jn)(12);
