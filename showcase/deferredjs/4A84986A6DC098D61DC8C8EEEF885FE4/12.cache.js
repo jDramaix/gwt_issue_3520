@@ -1,0 +1,2 @@
+var VHd='cwHorizontalPanel';function g7b(){var a,b;a=new jFc;ysc();Sr(a.e,wod,5);for(b=1;b<5;++b){gFc(a,new qwc(UHd+b))}hFc(a,VHd);return a}
+rKb(817,1,o8c);_.mc=function m7b(){ANb(this.a,g7b())};a9c(Jn)(12);

@@ -1,0 +1,6 @@
+function tAb(a){this.a=a}
+function qAb(a,b){this.a=a;this.b=b}
+function CAb(a){var b,c;c=null;b=a==0||a==1?1:0;b==1&&(c=nld+a+old);if(c!=null){return c}return nld+a+pld}
+function mAb(b){var c;try{c=Buc(Fvc((m$b(),Ir(b.a.cb,J9c))));q6b(b.b,CAb(c))}catch(a){a=ifb(a);if(!HV(a,145))throw hfb(a)}}
+function lAb(a){var b,c,d,e,f,g;d=new h9b;b=FV(d.j,99);m$b();Sr(d.o,lWc,5);g=Xib(W3);e=new L1b(g);rj(e,new qAb(a,g),(Dy(),Dy(),Cy));f=new $ac;Sr(f.e,lWc,3);Xac(f,new z6b(Vjd));Xac(f,e);b9b(d,0,0,f);Sr(q9b(b,0),G9c,2);a.a=new Wec;Mec(a.a,mld);$8b(d,2,0,Zjd);b9b(d,2,1,a.a);a.b=new s6b;$8b(d,5,0,ajd);b9b(d,5,1,a.b);v9b(b,5,0,(uac(),tac));c=new tAb(a);rj(a.a,c,(gz(),gz(),fz));mAb(a);return d}
+var old=' arbre.',pld=' arbres.',mld='13',rld='CwPluralFormsExample$1',sld='CwPluralFormsExample$2',qld='PluralMessages',nld='Vous avez ';fgb(682,1,aGc,qAb);_.Ec=function rAb(a){Qib(this.a,this.b+zjd)};fgb(683,1,MFc,tAb);_.Gc=function uAb(a){mAb(this.a)};fgb(684,1,dGc);_.mc=function yAb(){ojb(this.b,lAb(this.a))};var W3=quc(D$c,qld),P3=ouc(D$c,rld,682),Q3=ouc(D$c,sld,683);RGc(Jn)(36);

@@ -1,0 +1,7 @@
+function x8b(a){this.a=a}
+function A8b(a){this.a=a}
+function KDc(a,b){ysc();(a.a.eh(0,1),DDc(a.a.i,0,1))[PHd]=b}
+function t8b(a){var b;b=a.i.rows.length;if(b>1){fDc(a,b-1);KDc(Jmb(a.j,99),b-1)}}
+function r8b(a){var b;b=a.i.rows.length;nDc(a,b,0,new Erc((vOb(),NPb(),GPb(),APb)));nDc(a,b,1,new Erc(APb));KDc(Jmb(a.j,99),b+1)}
+function s8b(){var a,b,c,d,e;d=new tDc;c=Jmb(d.j,99);kj(d.cb,CId,true);Jsc(d.cb,dbd,DId);ysc();Sr(d.o,xod,5);Sr(d.o,yod,3);FDc(c,1,(zEc(),vEc));kDc(d,0,0,EId);Sr(CDc(c,0),SDd,2);a=new rwc(FId,new x8b(d));kj(a.cb,GId,true);e=new rwc(HId,new A8b(d));kj(e.cb,GId,true);b=new LQc;jj(b.cb,IId);IQc(b,a);IQc(b,e);nDc(d,0,1,b);HDc(c,0,1,(GEc(),FEc));r8b(d);r8b(d);dDc(d,JId);return d}
+var DId='32em',FId='Add a row',KId='CwFlexTable$1',LId='CwFlexTable$2',HId='Remove a row',EId='This is a FlexTable that supports <B>colspans<\/B> and <B>rowspans<\/B>.  You can use it to format your page or as a special purpose table.',CId='cw-FlexTable',IId='cw-FlexTable-buttonPanel',JId='cwFlexTable';rKb(834,1,m8c,x8b);_.Ec=function y8b(a){r8b(this.a)};rKb(835,1,m8c,A8b);_.Ec=function B8b(a){t8b(this.a)};rKb(836,1,p8c);_.mc=function F8b(){ANb(this.a,s8b())};var nzb=AYc(qsd,KId,834),ozb=AYc(qsd,LId,835);b9c(Jn)(17);

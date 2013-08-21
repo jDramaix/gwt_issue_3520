@@ -1,0 +1,4 @@
+function qub(a){this.b=a}
+function fac(a){a.j=true;Tac(a.e)}
+function iub(){var a,b,c,d,e,f,g;d=new gac;e=new sTb;Dj(d,new qub(e),(!jB&&(jB=new Oy),jB));a=new gac;a.j=true;Tac(a.e);a.k=true;Tac(a.e);a.d=true;Tac(a.e);f=new sTb;f.db.style[MBc]=15+(Tw(),ttc);Dj(a,new qub(f),(!jB&&(jB=new Oy),jB));eac(d,new oI,true);eac(a,new oI,true);c=(vD(),xD((kE(),DD)));b=new E9b;z9b(b,new U9b(c));fac(b.e);g=new i7b;f7b(g,new zTb('<b>Permanent DatePicker:<\/b>'));f7b(g,e);f7b(g,d);f7b(g,f);f7b(g,a);f7b(g,new zTb('<br><br><br><b>DateBox with popup DatePicker:<\/b>'));f7b(g,b);return g}
+X2(780,1,Eqc);_.qc=function oub(){B5(this.b,iub())};X2(781,1,Xpc,qub);_.ic=function rub(a){var b,c;b=$I(a.Pc(),153);c=YC((vD(),xD((kE(),ED))),b,null);qTb(this.b,c)};var rU=Pec(vxc,'CwDatePicker$MyDateValueChangeHandler',781);rrc(Vn)(35);

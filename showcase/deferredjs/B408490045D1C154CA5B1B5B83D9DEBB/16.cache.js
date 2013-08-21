@@ -1,0 +1,2 @@
+function HVb(){var a,b,c,d,e;b=new Wnc(4,4);d=b.i;c=b.g;for(e=0;e<d;++e){for(a=0;a<c;++a){nnc(b,e,a,new Lbc(($Ab(),PAb)))}}dnc(b,'cwGrid');return b}
+owb(814,1,HTc);_.mc=function NVb(){Uyb(this.b,HVb())};uUc(Jn)(16);

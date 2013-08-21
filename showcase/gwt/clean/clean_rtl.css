@@ -1176,7 +1176,8 @@ select {
   padding: 1px 0 5px 0;
   background: #fff;
 }
-td.datePickerMonth {
+td.datePickerMonth,
+td.datePickerYear {
   text-align: center;
   vertical-align: middle;
   white-space: nowrap;

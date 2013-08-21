@@ -1,0 +1,2 @@
+function OGb(){}
+Pfb(801,1,BDc,OGb);_.Dc=function PGb(a){pZb('Arr\xEAtez de me tapoter!')};Pfb(802,1,EDc);_.lc=function TGb(){var a,b,c;yib(this.a,(a=new V8b,zYb(),Rr(a.e,zJc,10),b=new e0b('Bouton normal',new OGb),Ojc(b.cb,kFc,'cwBasicButton-normal'),S8b(a,b),c=new d0b('Bouton d\xE9sactiv\xE9'),Ojc(c.cb,kFc,'cwBasicButton-disabled'),zYb(),Qr(c.cb,gLc,true),S8b(a,c),a))};var d5=Qrc(pKc,'CwBasicButton$1',801);rEc(In)(2);

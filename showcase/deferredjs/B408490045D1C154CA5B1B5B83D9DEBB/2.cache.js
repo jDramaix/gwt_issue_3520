@@ -1,0 +1,2 @@
+function iXb(){}
+owb(843,1,ETc,iXb);_.Dc=function jXb(a){vdc('\u062A\u0648\u0642\u0641 \u0639\u0646 \u0648\u0643\u0632\u064A!')};owb(844,1,HTc);_.mc=function nXb(){var a,b,c;Uyb(this.b,(a=new kpc,Ccc(),Rr(a.f,SZc,10),b=new qgc('\u0632\u0631 \u0639\u0627\u062F\u064A',new iXb),$zc(b.db,nVc,'cwBasicButton-normal'),hpc(a,b),c=new pgc('\u0632\u0631 \u0627\u0644\u0645\u0639\u0648\u0642\u064A\u0646'),$zc(c.db,nVc,'cwBasicButton-disabled'),Ccc(),Qr(c.db,w_c,true),hpc(a,c),a))};var Flb=THc(G$c,'CwBasicButton$1',843);uUc(Jn)(2);

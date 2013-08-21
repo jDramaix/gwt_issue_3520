@@ -1,0 +1,2 @@
+var Kdd='cwHorizontalPanel';function WEb(){var a,b;a=new $ac;m$b();Sr(a.e,lWc,5);for(b=1;b<5;++b){Xac(a,new e2b(Jdd+b))}Yac(a,Kdd);return a}
+fgb(755,1,dGc);_.mc=function aFb(){ojb(this.a,WEb())};RGc(Jn)(12);

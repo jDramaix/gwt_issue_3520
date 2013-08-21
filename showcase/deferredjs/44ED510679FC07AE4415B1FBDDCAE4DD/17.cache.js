@@ -1,0 +1,7 @@
+function sWb(a){this.b=a}
+function vWb(a){this.b=a}
+function Foc(a,b){xdc();(a.b.fh(0,1),yoc(a.b.j,0,1))[Z1c]=b}
+function oWb(a){var b;b=a.j.rows.length;if(b>1){aoc(a,b-1);Foc(S9(a.k,97),b-1)}}
+function mWb(a){var b;b=a.j.rows.length;ioc(a,b,0,new Gcc((VBb(),KBb)));ioc(a,b,1,new Gcc(KBb));Foc(S9(a.k,97),b+1)}
+function nWb(){var a,b,c,d,e;d=new ooc;c=S9(d.k,97);wj(d.db,'cw-FlexTable',true);Hdc(d.db,cXc,'32em');xdc();xs(d.p,l_c,5);xs(d.p,m_c,3);Aoc(c,1,(wpc(),spc));foc(d,0,0,'\u0647\u0630\u0627 \u0647\u0648 \u062C\u062F\u0648\u0644 \u0641\u0644\u0643\u0633 \u0648\u0627\u0644\u0630\u064A \u064A\u062F\u0639\u0645 <b>colspan<\/b> \u0648 <b>rowspans<\/b>. \u064A\u0645\u0643\u0646\u0643 \u062A\u0646\u0633\u064A\u0642 \u0627\u0644\u0635\u0641\u062D\u0629 \u0627\u0644\u062E\u0627\u0635\u0629 \u0628\u0643 \u0643\u062C\u062F\u0648\u0644 \u0645\u0646 \u0646\u0648\u0639 \u062E\u0627\u0635');xs(xoc(c,0),$0c,2);a=new qhc('\u0627\u0636\u0627\u0641\u0629 \u0635\u0641',new sWb(d));wj(a.db,_1c,true);e=new qhc('\u0627\u062D\u0630\u0641 \u0635\u0641',new vWb(d));wj(e.db,_1c,true);b=new vBc;vj(b.db,'cw-FlexTable-buttonPanel');sBc(b,a);sBc(b,e);ioc(d,0,1,b);Coc(c,0,1,(Dpc(),Cpc));mWb(d);mWb(d);$nc(d,'cwFlexTable');return d}
+jxb(815,1,TUc,sWb);_.Lc=function tWb(a){mWb(this.b)};jxb(816,1,TUc,vWb);_.Lc=function wWb(a){oWb(this.b)};jxb(817,1,WUc);_.qc=function AWb(){Pzb(this.b,nWb())};var imb=eJc(e0c,'CwFlexTable$1',815),jmb=eJc(e0c,'CwFlexTable$2',816);JVc(Vn)(17);

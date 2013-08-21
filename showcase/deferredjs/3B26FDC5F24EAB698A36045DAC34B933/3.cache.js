@@ -1,0 +1,4 @@
+function ic(a){$b((dg(),bg),a)}
+function zhc(a,b){var c;if((qdc(),!a.cb[h0c])!=b){c=(!a.b&&uhc(a,a.j),a.b.a)^4;c&=-3;thc(a,c);Qr(a.cb,h0c,!b);if(b){shc(a,(!a.b&&uhc(a,a.j),a.b))}else{phc(a);Af();ic(a.cb)}}}
+function QXb(){var a,b,c,d,e,f,g;g=new dBc;e=new Npc;qdc();Rr(e.e,B$c,10);f=new Npc;Rr(f.e,B$c,10);aBc(g,new plc('<b>\u0627\u0632\u0631\u0627\u0631 \u062F\u0641\u0639:<\/b>'));aBc(g,e);aBc(g,new plc('<br><br><b>\u0627\u0632\u0631\u0627\u0631 \u062A\u0628\u062F\u064A\u0644:<\/b>'));aBc(g,f);c=new Quc(new zcc((vBb(),kBb)));GAc(c.cb,cWc,'cwCustomButton-push-normal');Kpc(e,c);a=new Quc(new zcc(kBb));GAc(a.cb,cWc,'cwCustomButton-push-disabled');zhc(a,false);Kpc(e,a);d=new Yyc(new zcc(kBb));GAc(d.cb,cWc,'cwCustomButton-toggle-normal');Kpc(f,d);b=new Yyc(new zcc(kBb));GAc(b.cb,cWc,'cwCustomButton-toggle-disabled');zhc(b,false);Kpc(f,b);return g}
+Gwb(850,1,wUc);_.lc=function WXb(){pzb(this.a,QXb())};jVc(In)(3);

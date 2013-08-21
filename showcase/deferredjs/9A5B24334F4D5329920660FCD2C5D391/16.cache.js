@@ -1,0 +1,2 @@
+var j1c='cwGrid';function rtb(){var a,b,c,d,e;b=new FYb(4,4);d=b.g;c=b.f;for(e=0;e<d;++e){for(a=0;a<c;++a){YXb(b,e,a,new oMb((f7(),x8(),q8(),k8)))}}OXb(b,j1c);return b}
+b3(751,1,$sc);_.mc=function xtb(){k6(this.a,rtb())};Mtc(Jn)(16);

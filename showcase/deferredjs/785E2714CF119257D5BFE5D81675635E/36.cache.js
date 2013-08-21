@@ -1,0 +1,6 @@
+function lmb(a){this.a=a}
+function imb(a,b){this.a=a;this.b=b}
+function emb(b){var c;try{c=$ec(cgc((vLb(),Hr(b.a.cb,myc))));lTb(b.b,umb(c))}catch(a){a=O1(a);if(!TI(a,143))throw N1(a)}}
+function umb(a){var b,c;c=null;b=a==1?1:0;switch(a){case 0:c='You have no trees';break;default:b==1&&(c='You have one tree.');}if(c!=null){return c}return 'You have '+a+' trees.'}
+function dmb(a){var b,c,d,e,f,g;d=new _Vb;b=RI(d.j,97);vLb();Rr(d.o,swc,5);g=b5(GS);e=new GOb(g);qj(e,new imb(a,g),(uy(),uy(),ty));f=new SXb;Rr(f.e,swc,3);PXb(f,new uTb(iBc));PXb(f,e);VVb(d,0,0,f);Rr(iWb(b,0),lyc,2);a.a=new L_b;B_b(a.a,'13');SVb(d,2,0,kBc);VVb(d,2,1,a.a);a.b=new nTb;SVb(d,5,0,sBc);VVb(d,5,1,a.b);nWb(b,5,0,(mXb(),lXb));c=new lmb(a);qj(a.a,c,(Zy(),Zy(),Yy));emb(a);return d}
+L2(653,1,yqc,imb);_.Dc=function jmb(a){W4(this.a,this.b+qBc)};L2(654,1,jqc,lmb);_.Fc=function mmb(a){emb(this.a)};L2(655,1,Bqc);_.lc=function qmb(){u5(this.b,dmb(this.a))};var GS=Pec(qxc,'PluralMessages'),zS=Nec(qxc,'CwPluralFormsExample$1',653),AS=Nec(qxc,'CwPluralFormsExample$2',654);orc(In)(36);

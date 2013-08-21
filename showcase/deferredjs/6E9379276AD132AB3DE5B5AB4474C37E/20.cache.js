@@ -1,0 +1,4 @@
+function w9b(a){this.a=a}
+function zAc(a){Ti(this,a)}
+function yAc(){zAc.call(this,$r($doc,'file'));jj(this.cb,'gwt-FileUpload')}
+SJb(873,1,A5c,w9b);_.Dc=function x9b(a){var b;b=this.a.cb.value;b.length==0?frc('You must select a file to upload'):frc('File uploaded!')};SJb(874,1,D5c);_.lc=function B9b(){var a,b,c;BMb(this.a,(a=new mOc,jOc(a,new zyc('<b>Select a file:<\/b>')),b=new yAc,PNc(b.cb,j7c,'cwFileUpload'),jOc(a,b),c=new euc('Upload File'),rj(c,new w9b(b),(ky(),ky(),jy)),jOc(a,new zyc('<br>')),jOc(a,c),a))};SJb(1119,102,S4c,yAc);_.Qb=function AAc(a){wj(this,a)};var ozb=PVc(Kcd,'CwFileUpload$1',873),UCb=PVc(Jcd,'FileUpload',1119);q6c(Jn)(20);

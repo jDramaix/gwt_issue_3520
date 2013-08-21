@@ -1,0 +1,4 @@
+function Bjb(a){var b,c;b=fV(a.b.je(oKc),147);if(b==null){c=XU(qeb,aCc,1,[pKc,qKc,rKc,sKc,tKc,uKc]);a.b.le(oKc,c);return c}else{return b}}
+function Ajb(a){var b,c;b=fV(a.b.je(nKc),147);if(b==null){c=XU(qeb,aCc,1,['bleu','rouge','jaune','vert']);a.b.le(nKc,c);return c}else{return b}}
+function lHb(a){var b,c,d,e,f,g,i;i=new Fjc;Cjc(i,new T3b('<b>S\xE9lectionnez votre couleur pr\xE9f\xE9r\xE9e:<\/b>'));c=Ajb(a.b);for(d=0;d<c.length;++d){b=c[d];e=new Cdc(kHc,b);H_b(e,'cwRadioButton-color-'+b);d==2&&(Ps(e.d,true),Xi(e,dj(e.db)+xHc,true));Cjc(i,e)}Cjc(i,new T3b('<br><b>S\xE9lectionnez votre sport pr\xE9f\xE9r\xE9:<\/b>'));g=Bjb(a.b);for(d=0;d<g.length;++d){f=g[d];e=new Cdc('sport',f);H_b(e,'cwRadioButton-sport-'+lsc(f,HDc,vEc));d==2&&J_b(e,(Gqc(),Gqc(),Fqc));Cjc(i,e)}return i}
+var nKc='cwRadioButtonColors',oKc='cwRadioButtonSports';xfb(812,1,PCc);_.mc=function rHb(){bib(this.c,lHb(this.b))};CDc(Jn)(1);

@@ -1,0 +1,7 @@
+function iFb(a){this.b=a}
+function lFb(a){this.b=a}
+function z7b(a,b){qYb();(a.b.bh(0,1),s7b(a.b.j,0,1))[BMc]=b}
+function eFb(a){var b;b=a.j.rows.length;if(b>1){W6b(a,b-1);z7b(FV(a.k,97),b-1)}}
+function cFb(a){var b;b=a.j.rows.length;c7b(a,b,0,new zXb((Lkb(),Akb)));c7b(a,b,1,new zXb(Akb));z7b(FV(a.k,97),b+1)}
+function dFb(){var a,b,c,d,e;d=new i7b;c=FV(d.k,97);vj(d.db,'cw-FlexTable',true);AYb(d.db,PFc,'32em');qYb();ds(d.p,OJc,5);ds(d.p,PJc,3);u7b(c,1,(o8b(),k8b));_6b(d,0,0,"Ceci est un tableau flexible qui prend en charge les <B>plages de colonne<\/B> et les <B>plages de ligne<\/B>. Vous pouvez l'utiliser pour mettre en forme votre page ou en tant que tableau r\xE9serv\xE9 \xE0 un but pr\xE9cis.");ds(r7b(c,0),CLc,2);a=new j0b('Ajouter une ligne',new iFb(d));vj(a.db,EMc,true);e=new j0b('Supprimer une ligne',new lFb(d));vj(e.db,EMc,true);b=new mkc;uj(b.db,'cw-FlexTable-buttonPanel');jkc(b,a);jkc(b,e);c7b(d,0,1,b);w7b(c,0,1,(v8b(),u8b));cFb(d);cFb(d);U6b(d,'cwFlexTable');return d}
+_fb(766,1,FDc,iFb);_.Hc=function jFb(a){cFb(this.b)};_fb(767,1,FDc,lFb);_.Hc=function mFb(a){eFb(this.b)};_fb(768,1,IDc);_.qc=function qFb(){Fib(this.b,dFb())};var a5=Trc(HKc,'CwFlexTable$1',766),b5=Trc(HKc,'CwFlexTable$2',767);vEc(Vn)(17);

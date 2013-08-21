@@ -1,0 +1,7 @@
+function htb(a){this.a=a}
+function ktb(a){this.a=a}
+function tYb(a,b){iNb();(a.a.hg(0,1),mYb(a.a.i,0,1))[x0c]=b}
+function dtb(a){var b;b=a.i.rows.length;if(b>1){QXb(a,b-1);tYb($I(a.j,98),b-1)}}
+function btb(a){var b;b=a.i.rows.length;YXb(a,b,0,new oMb((f7(),x8(),q8(),k8)));YXb(a,b,1,new oMb(k8));tYb($I(a.j,98),b+1)}
+function ctb(){var a,b,c,d,e;d=new cYb;c=$I(d.j,98);kj(d.cb,k1c,true);tNb(d.cb,Ovc,l1c);iNb();Sr(d.o,fJc,5);Sr(d.o,gJc,3);oYb(c,1,(iZb(),eZb));VXb(d,0,0,m1c);Sr(lYb(c,0),AYc,2);a=new bRb(n1c,new htb(d));kj(a.cb,o1c,true);e=new bRb(p1c,new ktb(d));kj(e.cb,o1c,true);b=new u9b;jj(b.cb,q1c);r9b(b,a);r9b(b,e);YXb(d,0,1,b);qYb(c,0,1,(pZb(),oZb));btb(d);btb(d);OXb(d,r1c);return d}
+var l1c='32em',n1c='Add a row',s1c='CwFlexTable$1',t1c='CwFlexTable$2',p1c='Remove a row',m1c='This is a FlexTable that supports <B>colspans<\/B> and <B>rowspans<\/B>.  You can use it to format your page or as a special purpose table.',k1c='cw-FlexTable',q1c='cw-FlexTable-buttonPanel',r1c='cwFlexTable';b3(747,1,Xsc,htb);_.Ec=function itb(a){btb(this.a)};b3(748,1,Xsc,ktb);_.Ec=function ltb(a){dtb(this.a)};b3(749,1,$sc);_.mc=function ptb(){k6(this.a,ctb())};var ZT=jhc($Mc,s1c,747),$T=jhc($Mc,t1c,748);Mtc(Jn)(17);

@@ -1,0 +1,4 @@
+function ic(a){$b((eg(),cg),a)}
+function J2b(a,b){var c;if((m$b(),!a.cb[v7c])!=b){c=(!a.b&&E2b(a,a.j),a.b.a)^4;c&=-3;D2b(a,c);Rr(a.cb,v7c,!b);if(b){C2b(a,(!a.b&&E2b(a,a.j),a.b))}else{z2b(a);Bf();ic(a.cb)}}}
+function jIb(){var a,b,c,d,e,f,g;g=new ymc;e=new Zac;m$b();Sr(e.e,kWc,10);f=new Zac;Sr(f.e,kWc,10);vmc(g,new z6b(x7c));vmc(g,e);vmc(g,new z6b(y7c));vmc(g,f);c=new dgc(new sZb((jkb(),Blb(),ulb(),olb)));_lc(c.cb,LHc,z7c);Wac(e,c);a=new dgc(new sZb(olb));_lc(a.cb,LHc,A7c);J2b(a,false);Wac(e,a);d=new pkc(new sZb(olb));_lc(d.cb,LHc,B7c);Wac(f,d);b=new pkc(new sZb(olb));_lc(b.cb,LHc,C7c);J2b(b,false);Wac(f,b);return g}
+var x7c='<b>Boutons de commande:<\/b>',y7c='<br><br><b>Boutons \xE0 bascule:<\/b>',A7c='cwCustomButton-push-disabled',z7c='cwCustomButton-push-normal',C7c='cwCustomButton-toggle-disabled',B7c='cwCustomButton-toggle-normal';fgb(809,1,cGc);_.mc=function pIb(){ojb(this.a,jIb())};QGc(Jn)(3);

@@ -1,0 +1,4 @@
+function Lac(a){this.a=a}
+function STc(a){a.i=true;EUc(a.d)}
+function Dac(){var a,b,c,d,e,f,g;d=new TTc;e=new EAc;sj(d,new Lac(e),(!iB&&(iB=new Ny),iB));a=new TTc;a.i=true;EUc(a.d);a.j=true;EUc(a.d);a.c=true;EUc(a.d);f=new EAc;f.cb.style[cPd]=15+(Rw(),Dcd);sj(a,new Lac(f),(!iB&&(iB=new Ny),iB));RTc(d,new Zlb,true);RTc(a,new Zlb,true);c=(mF(),oF((bG(),uF)));b=new pTc;kTc(b,new FTc(c));STc(b.d);g=new LQc;IQc(g,new LAc(dPd));IQc(g,e);IQc(g,d);IQc(g,f);IQc(g,a);IQc(g,new LAc(ePd));IQc(g,b);return g}
+var dPd='<b>Permanent DatePicker:<\/b>',ePd='<br><br><br><b>DateBox with popup DatePicker:<\/b>',fPd='CwDatePicker$MyDateValueChangeHandler';rKb(873,1,p8c);_.mc=function Jac(){ANb(this.a,Dac())};rKb(874,1,H7c,Lac);_.ec=function Mac(a){var b,c;b=Jmb(a.Mc(),156);c=PE((mF(),oF((bG(),vF))),b,null);CAc(this.a,c)};var Izb=AYc(Erd,fPd,874);b9c(Jn)(35);

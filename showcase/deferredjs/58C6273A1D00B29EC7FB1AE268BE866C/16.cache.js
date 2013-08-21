@@ -1,0 +1,2 @@
+function VVb(){var a,b,c,d,e;b=new moc(4,4);d=b.g;c=b.f;for(e=0;e<d;++e){for(a=0;a<c;++a){Fnc(b,e,a,new ccc((mBb(),bBb)))}}vnc(b,'cwGrid');return b}
+xwb(818,1,jUc);_.lc=function _Vb(){gzb(this.a,VVb())};YUc(Jn)(16);

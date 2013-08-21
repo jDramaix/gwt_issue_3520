@@ -1,0 +1,15 @@
+function _T(){}
+function Ecc(a,b){EC(a.a,b)}
+function DFb(a,b){this.b=a;this.a=b}
+function GFb(a,b){this.b=a;this.a=b}
+function yU(a){return Hgb(jU,a)}
+function $T(){$T=MCc;ZT=new _T}
+function vFb(a,b){p4b(b,'S\xE9lectionn\xE9: '+a.eh()+SGc+a.fh())}
+function Rcc(){Mcc();Qcc.call(this,Zr($doc,'password'),'gwt-PasswordTextBox')}
+function Clc(b){try{var c=b.document.selection.createRange();if(c.parentElement()!==b)return 0;return c.text.length}catch(a){return 0}}
+function Blc(b){try{var c=b.document.selection.createRange();if(c.parentElement()!==b)return -1;return -c.move(tMc,-65535)}catch(a){return 0}}
+function tFb(a,b){var c,d;c=new W8b;zYb();Rr(c.e,AJc,4);T8b(c,a);if(b){d=new t4b('S\xE9lectionn\xE9: 0, 0');qj(a,new DFb(a,d),(Zy(),Zy(),Yy));qj(a,new GFb(a,d),(uy(),uy(),ty));T8b(c,d)}return c}
+function Elc(b){try{var c=b.document.selection.createRange();if(c.parentElement()!==b)return 0;var d=c.text.length;var e=0;var f=c.duplicate();f.moveEnd(tMc,-1);var g=f.text.length;while(g==d&&f.parentElement()==b&&c.compareEndPoints('StartToEnd',f)<=0){e+=2;f.moveEnd(tMc,-1);g=f.text.length}return d+e}catch(a){return 0}}
+function Dlc(b){try{var c=b.document.selection.createRange();if(c.parentElement()!==b)return -1;var d=c.duplicate();d.moveToElementText(b);d.setEndPoint('EndToStart',c);var e=d.text.length;var f=0;var g=d.duplicate();g.moveEnd(tMc,-1);var i=g.text.length;while(i==e&&g.parentElement()==b){f+=2;g.moveEnd(tMc,-1);i=g.text.length}return e+f}catch(a){return 0}}
+function uFb(){var a,b,c,d,e,f;f=new mkc;zYb();Rr(f.e,AJc,5);d=new Pcc;Pjc(d.cb,lFc,'cwBasicText-textbox');Ecc(d,($T(),$T(),ZT));b=new Pcc;Pjc(b.cb,lFc,'cwBasicText-textbox-disabled');Fcc(b,sMc);Qr(b.cb,hLc,true);jkc(f,new y4b('<b>Zone de texte normale:<\/b>'));jkc(f,tFb(d,true));jkc(f,tFb(b,false));c=new Rcc;Pjc(c.cb,lFc,'cwBasicText-password');a=new Rcc;Pjc(a.cb,lFc,'cwBasicText-password-disabled');Fcc(a,sMc);Qr(a.cb,hLc,true);jkc(f,new y4b('<br><br><b>Zone de texte &laquo;mot de passe&raquo;:<\/b>'));jkc(f,tFb(c,true));jkc(f,tFb(a,false));e=new aic;Pjc(e.cb,lFc,'cwBasicText-textarea');e.cb.rows=5;jkc(f,new y4b('<br><br><b>Zone de texte:<\/b>'));jkc(f,tFb(e,true));return f}
+var tMc='character',sMc='lecture seulement';Pfb(388,389,{},_T);_.ze=function aU(a){return yU((sU(),a))?(kG(),jG):(kG(),iG)};var ZT;Pfb(774,1,FDc);_.lc=function BFb(){yib(this.a,uFb())};Pfb(775,1,nDc,DFb);_.Fc=function EFb(a){vFb(this.b,this.a)};Pfb(776,1,CDc,GFb);_.Dc=function HFb(a){vFb(this.b,this.a)};Pfb(1119,1001,UCc);_.eh=function Hcc(){return Blc(this.cb)};_.fh=function Icc(){return Clc(this.cb)};Pfb(1116,1117,UCc,Rcc);Pfb(1172,1118,UCc);_.eh=function bic(){return Dlc(this.cb)};_.fh=function cic(){return Elc(this.cb)};var Y4=Rrc(vKc,'CwBasicText$2',775),Z4=Rrc(vKc,'CwBasicText$3',776),V9=Rrc(pKc,'PasswordTextBox',1116),s_=Rrc(RKc,'AnyRtlDirectionEstimator',388);sEc(In)(18);

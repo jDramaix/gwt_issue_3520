@@ -1,0 +1,2 @@
+function osb(){var a,b,c,d,e;b=new HWb(4,4);d=b.i;c=b.g;for(e=0;e<d;++e){for(a=0;a<c;++a){$Vb(b,e,a,new vKb((H7(),w7)))}}QVb(b,'cwGrid');return b}
+X2(745,1,Eqc);_.qc=function usb(){B5(this.b,osb())};rrc(Vn)(16);
